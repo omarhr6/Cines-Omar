@@ -18,7 +18,7 @@ function LecturaJson() {
         json = xhttp.responseText;
         json2 = JSON.parse(json);
     };
-    xhttp.open("GET", "/js/peliculas.json", false);
+    xhttp.open("GET", "../js/peliculas.json", false);
     xhttp.send();
     infoPelicula(json2);
 }
@@ -46,13 +46,12 @@ function infoSala() {
     var idSala = localStorage.getItem('idSala');
     datosSala = localStorage.getItem(idSala);
     datosSala = JSON.parse(datosSala);
-    console.log(datosSala);
 }
 
 function infoPagina() {
     var contenedor = document.getElementById('form-pelicula');
     var imagen = document.createElement('img');
-    imagen.setAttribute('src', datosPelicula[0].imagen);
+    imagen.setAttribute('src', datosPelicula[0].imagen2);
     imagen.setAttribute('alt', datosPelicula[0].titulo);
     imagen.setAttribute('id', 'pelicula-form');
     imagen.setAttribute('aria-label', datosPelicula[0].titulo);
@@ -86,7 +85,6 @@ function ocuparButacas() {
     butacas = JSON.parse(butacas);
     for(var i = 0; i < butacas.length; i++){
         datosSala[2][butacas[i]].estado = "ocupado";
-        console.log(datosSala);
     }
     localStorage.setItem(idSala, JSON.stringify(datosSala));
 }

@@ -16,7 +16,7 @@ function LecturaJson() {
         json = xhttp.responseText;
         json2 = JSON.parse(json);
     };
-    xhttp.open("GET", "/js/peliculas.json", false);
+    xhttp.open("GET", "js/peliculas.json", false);
     xhttp.send();
 
 }
@@ -27,7 +27,7 @@ function LecturaJson2() {
         json3 = xhttp.responseText;
         json4 = JSON.parse(json3);
     };
-    xhttp.open("GET", "/js/butacas.json", false);
+    xhttp.open("GET", "js/butacas.json", false);
     xhttp.send();
 
     crearElementos(json2);
@@ -107,7 +107,7 @@ function cargarImagenes(peliculas) {
                 if (event.keyCode === 13) {
                     $item = event.currentTarget;
                     localStorage.setItem('idPelicula', $item.id);
-                    location.href = '../portfolio/pelicula.html';
+                    location.href = 'portfolio/pelicula.html';
                 }
             });
         } else {
@@ -115,13 +115,13 @@ function cargarImagenes(peliculas) {
             $('#pelicula_' + contadorPeliculas).on("click", function (event) {
                 $item = event.currentTarget;
                 localStorage.setItem('idPelicula', $item.id);
-                location.href = '../portfolio/pelicula.html';
+                location.href = 'portfolio/pelicula.html';
             });
             $('#pelicula_' + contadorPeliculas).on("keydown", function (event) {
                 if (event.keyCode === 13) {
                     $item = event.currentTarget;
                     localStorage.setItem('idPelicula', $item.id);
-                    location.href = '../portfolio/pelicula.html';
+                    location.href = 'portfolio/pelicula.html';
                 }
             });
         }

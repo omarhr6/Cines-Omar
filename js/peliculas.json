@@ -5,7 +5,8 @@
         "año": "2014",
         "generos": "Acción, Suspense",
         "trailer": "https://www.youtube.com/embed/vf-Cd6wVANU",
-        "imagen": "/img/John-Wick.jpg",
+        "imagen": "img/John-Wick.jpg",
+        "imagen2": "../img/John-Wick.jpg",
         "portada": "/img/portadas/John-Wick-portada.jpg",
         "duracion": "130 minutos",
         "horarios": ["16:00", "17:00", "18:45", "19:45", "21:30", "22:25"]
@@ -16,7 +17,8 @@
         "año": "2014",
         "generos": "Guerra, Drama, Acción",
         "trailer": "https://www.youtube.com/embed/lqgfXkSh4x0",
-        "imagen": "/img/Corazones-de-acero.jpg",
+        "imagen": "img/Corazones-de-acero.jpg",
+        "imagen2": "../img/Corazones-de-acero.jpg",
         "portada": "/img/portadas/Corazones-de-acero-portada.jpg",
         "duracion": "130 minutos",
         "horarios": ["17:05", "19:35", "22:05"]
@@ -27,7 +29,8 @@
         "año": "2017",
         "generos": "Crime, Terror, Misterio, Suspense",
         "trailer": "https://www.youtube.com/embed/FkbM1sz2tqQ",
-        "imagen": "/img/Jigsaw.jpg",
+        "imagen": "img/Jigsaw.jpg",
+        "imagen2": "../img/Jigsaw.jpg",
         "portada": "/img/portadas/Jigsaw-portada.jpg",
         "duracion": "130 minutos",
         "horarios": ["20:20", "22:20"]
@@ -38,7 +41,8 @@
         "año": "2017",
         "generos": "Aventura, Acción, Fantasía, Comedia",
         "trailer": "https://www.youtube.com/embed/YgU6L94rKxA",
-        "imagen": "/img/Piratas-del-caribe.jpg",
+        "imagen": "img/Piratas-del-caribe.jpg",
+        "imagen2": "../img/Piratas-del-caribe.jpg",
         "portada": "/img/portadas/Piratas-del-caribe-portada.jpg",
         "duracion": "130 minutos",
         "horarios": ["17:35", "20:05", "21:40", "22:45"]
@@ -49,7 +53,8 @@
         "año": "2017",
         "generos": "Acción, Aventura, Comedia, Ciencia ficción",
         "trailer": "https://www.youtube.com/embed/12gvJgLE4us",
-        "imagen": "/img/Guardianes-de-la-galaxia.jpg",
+        "imagen": "img/Guardianes-de-la-galaxia.jpg",
+        "imagen2": "../img/Guardianes-de-la-galaxia.jpg",
         "portada": "/img/portadas/Guardianes-de-la-galaxia-portada.jpg",
         "duracion": "130 minutos",
         "horarios": ["16:15"]
@@ -61,7 +66,8 @@
         "año": "2017",
         "generos": "Acción, Crimen, Suspense",
         "trailer": "https://www.youtube.com/embed/HPegOXvd1NE",
-        "imagen": "/img/Fast-and-furious-8.jpg",
+        "imagen": "img/Fast-and-furious-8.jpg",
+        "imagen2": "../img/Fast-and-furious-8.jpg",
         "portada": "/img/portadas/Fast-and-furious-8-portada.jpg",
         "duracion": "130 minutos",
         "horarios": ["17:35", "22:35"]
@@ -72,7 +78,8 @@
         "año": "2017",
         "generos": "Acción, Crimen, Suspense",
         "trailer": "https://www.youtube.com/embed/_VBHPl3S35g",
-        "imagen": "/img/Barry-Seal.jpg",
+        "imagen": "img/Barry-Seal.jpg",
+        "imagen2": "../img/Barry-Seal.jpg",
         "portada": "/img/portadas/Barry-Seal-portada.jpg",
         "duracion": "130 minutos",
         "horarios": ["15:55", "18:10", "20:30", "22:45"]
@@ -83,7 +90,8 @@
         "año": "2016",
         "generos": "Acción, Aventura, Fantasía, Ciencia ficción",
         "trailer": "https://www.youtube.com/embed/zJINUsjyFf8",
-        "imagen": "/img/Doctor-Strange.jpg",
+        "imagen": "img/Doctor-Strange.jpg",
+        "imagen2": "../img/Doctor-Strange.jpg",
         "portada": "/img/portadas/Doctor-Strange-portada.jpg",
         "duracion": "130 minutos",
         "horarios": ["18:00", "20:10", "22:25"]
@@ -94,7 +102,8 @@
         "año": "2016",
         "generos": "Aventura, Acción, Ciencia ficción",
         "trailer": "https://www.youtube.com/embed/C324ooIV0sI",
-        "imagen": "/img/Capitan-america-civil-war.jpg",
+        "imagen": "img/Capitan-america-civil-war.jpg",
+        "imagen2": "../img/Capitan-america-civil-war.jpg",
         "portada": "/img/portadas/Capitan-america-civil-war-portada.jpg",
         "duracion": "130 minutos",
         "horarios": ["19:10"]
@@ -105,7 +114,8 @@
         "año": "2016",
         "generos": "Acción, Aventura, Comedia",
         "trailer": "https://www.youtube.com/embed/7evoYlgMmoY",
-        "imagen": "/img/Deadpool.jpg",
+        "imagen": "img/Deadpool.jpg",
+        "imagen2": "../img/Deadpool.jpg",
         "portada": "/img/portadas/Deadpool-portada.jpg",
         "duracion": "130 minutos",
         "horarios": ["19:40", "22:50"]
@@ -116,7 +126,8 @@
         "año": "2015",
         "generos": "Drama, Acción, Ciencia ficción",
         "trailer": "https://www.youtube.com/embed/TYzLCBh_S-I",
-        "imagen": "/img/Marte.jpg",
+        "imagen": "img/Marte.jpg",
+        "imagen2": "../img/Marte.jpg",
         "portada": "/img/portadas/Marte-portada.jpg",
         "duracion": "142 minutos",
         "horarios": ["20:15"]
@@ -127,7 +138,8 @@
         "año": "2009",
         "generos": "Drama, Crimen, Suspense",
         "trailer": "https://www.youtube.com/embed/hL9A1iqu5ck",
-        "imagen": "/img/Ciudadano-Ejemplar.jpg",
+        "imagen": "img/Ciudadano-Ejemplar.jpg",
+        "imagen2": "../img/Ciudadano-Ejemplar.jpg",
         "portada": "/img/portadas/Ciudadano-Ejemplar-portada.jpg",
         "duracion": "109 minutos",
         "horarios": ["17:05"]

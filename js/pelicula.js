@@ -22,7 +22,7 @@ function LecturaJson() {
         json = xhttp.responseText;
         json2 = JSON.parse(json);
     };
-    xhttp.open("GET", "/js/peliculas.json", false);
+    xhttp.open("GET", "../js/peliculas.json", false);
     xhttp.send();
 
     infoPelicula(json2);
@@ -50,7 +50,7 @@ function infoPagina() {
 
     var cartelera = document.getElementById('cartelera');
     imagen = document.createElement('img');
-    imagen.setAttribute('src', datosPelicula[0].imagen);
+    imagen.setAttribute('src', datosPelicula[0].imagen2);
     imagen.setAttribute('alt', datosPelicula[0].titulo);
     imagen.setAttribute('id', 'carteleraPelicula');
     cartelera.appendChild(imagen);
