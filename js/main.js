@@ -101,7 +101,7 @@ function cargarImagenes(peliculas) {
             $('#pelicula_0' + contadorPeliculas).on("click", function (event) {
                 $item = event.currentTarget;
                 localStorage.setItem('idPelicula', $item.id);
-                location.href = '../portfolio/pelicula.html';
+                location.href = 'portfolio/pelicula.html';
             });
             $('#pelicula_0' + contadorPeliculas).on("keydown", function (event) {
                 if (event.keyCode === 13) {
