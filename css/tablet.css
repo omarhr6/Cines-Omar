@@ -1,0 +1,12 @@
+header {
+    width: auto !important;
+}
+
+#contenedor-pelicula {
+    width: 120vw !important;
+}
+
+#nav-der {
+    height: auto;
+    padding-bottom: 20px;
+}

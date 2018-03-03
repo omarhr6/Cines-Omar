@@ -1,0 +1,358 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: none;
+    background-color: rgb(146, 145, 145) !important;
+    padding-bottom: 40px;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid black;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+header h1 {
+    font-size: 60px;
+    color: rgb(37, 37, 37);
+    margin-left: 15px;
+}
+
+.login{
+ text-align: center;
+}
+
+#logotipo {
+    width: 80px;
+}
+
+.titulo {
+    font-size: 24px;
+    text-align: center;
+    color: rgb(37, 37, 37);
+}
+
+#contenedor {
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row wrap;
+    width: 56vw;
+    margin: 0 auto;
+    margin-top: 20px !important;
+}
+
+.contenedores-peliculas {
+    width: 230px;
+    height: 320px;
+    border: 1px solid black;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+    box-shadow: 7px 6px 5px 0px rgba(0, 0, 0, 0.40);
+    background-color: #ccc;
+    transition: all 500ms ease-in-out;
+}
+
+.contenedores-peliculas:hover {
+    transform: scale(1.2);
+}
+
+.contenedores-peliculas img {
+    width: 228px;
+    height: 278px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.contenedores-peliculas span {
+    margin-top: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#header {
+    margin: 0 auto;
+    border: 2px solid rgb(143, 143, 143);
+    box-shadow: 7px 5px 5px 0px rgba(0, 0, 0, 0.25);
+    height: 300px;
+    width: 1250px;
+    overflow: hidden;
+}
+
+#contenedor-pelicula {
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row wrap;
+    margin: 0 auto;
+    margin-top: 20px !important;
+    width: 62vw !important;
+}
+
+.info {
+    border: 1px solid #ccc;
+    height: 355px;
+    position: absolute;
+    top: -50px;
+    background-color: rgb(218, 218, 218);
+    border-radius: 5px;
+}
+
+#cartelera {
+    margin: 0 auto;
+    width: 228px;
+    height: 280px;
+    position: relative;
+    top: -100px;
+}
+
+#carteleraPelicula {
+    width: 228px;
+    height: 280px;
+    border-radius: 10px;
+    box-shadow: 7px 6px 5px 0px rgba(0, 0, 0, 0.40);
+}
+
+#nav-izq-contenido {
+    position: relative;
+    top: -90px;
+    height: 140px;
+}
+
+#nav-izq-contenido div h1 {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+#tituloPelicula {
+    font-weight: bold;
+}
+
+#nav-der span {
+    font-size: 1.3em;
+}
+
+.contenedor-trailer {
+    margin-top: 10px;
+    height: 500px;
+}
+
+#trailer {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.contenedor-horarios {
+    margin-top: 10px;
+}
+
+#nav-izq-horarios div h1 {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+#horarios {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row wrap;
+}
+
+.botones-horarios {
+    margin: 5px;
+}
+
+#contenedor-botones {
+    text-align: center;
+    margin-top: 15px;
+}
+
+#contenedor-botones button {
+    padding: 10px 35px;
+    overflow: hidden;
+    border: none;
+    background: #285972;
+    color: #ffffff;
+    font-size: 18px;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+
+#contenedor-botones button:hover {
+    color: rgba(255, 255, 255, 1);
+    box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+    transition: all 0.2s ease;
+}
+
+#contenedor-formulario {
+    width: 60vw;
+    margin: 0 auto;
+    margin-top: 20px !important;
+    border: 1px solid rgb(163, 157, 157);
+    padding: 40px 0;
+    padding-bottom: 210px;
+    border-radius: 10px;
+    background-color: #ccc;
+    box-shadow: 7px 6px 5px 0px rgba(0, 0, 0, 0.40);
+}
+
+#contenedor-formulario h3 {
+    font-weight: bold;
+}
+
+#contenedor-formulario form{
+    margin: 20px;
+}
+
+#spinner{
+    width: 350px;
+    display: none;
+}
+
+.pago-realizado{
+    display: none;
+}
+
+.pago-completado{
+    display: none;
+}
+
+#contenedor-formulario{
+    text-align: center;
+}
+
+label span{
+    margin-bottom: 20px;
+    min-width: 190px;
+    display: inline-block;
+    font-size: 18px;
+}
+
+label input {
+    font-size: 18px;
+    font-weight: normal;
+}
+
+#form-pelicula {
+    margin: 0 auto;
+    width: 228px;
+    height: 326px;
+    border-radius: 5px;
+    border: 1px solid black;
+    text-align: center;
+    box-shadow: 7px 6px 5px 0px rgba(0, 0, 0, 0.40);
+}
+
+#pelicula-form {
+    width: 226px;
+    height: 278px;
+    border-radius: 5px;
+}
+
+#form-pelicula span {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+/* .contenedor-datos-reserva{
+    border: 1px solid black;
+    
+} */
+
+.contenedor-datos-reserva span{
+    margin-bottom: 20px;
+    min-width: 190px;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.contenedor-pantalla{
+    text-align: center;
+    width: 92%;
+}
+
+.pantalla{
+    background-color: black;
+    color: white;
+    width: 400px;
+    height: 35px;
+    font-size: 25px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+#butacas {
+    max-width: 570px;
+    max-height: 400px;
+}
+
+.butaca {
+    fill: whitesmoke;
+}
+
+.ocupado {
+    fill: rgb(253, 56, 56);
+}
+
+.libre {
+    cursor: pointer;
+    fill: #44fa1f;
+}
+
+.reservado {
+    cursor: pointer;
+    fill: rgb(48, 48, 216);
+}
+
+div.leyenda {
+    margin-bottom: 10px;
+}
+
+div.leyenda p {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+div.leyenda span {
+    border: solid rgb(41, 7, 7) 1px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-right: 5px;
+    width: 15px;
+    height: 15px;
+}
+
+div.leyenda span#butaca_libre {
+    background-color: #44fa1f;
+}
+
+div.leyenda span#butaca_ocupado {
+    background-color: rgb(253, 56, 56);
+}
+
+div.leyenda span#butaca_reservado {
+    background-color: rgb(48, 48, 216);
+}
+
+.footer {
+    padding-top: 15px;
+    border-top: 1px solid black;
+    margin-top: 15px;
+    font-size: 1em;
+    text-align: center;
+}
+
+.container-form{
+    border-radius: 10px;
+    margin: 0 auto;
+    width: 70%;
+    padding: 10px;
+    background: rgb(218, 218, 218);
+}

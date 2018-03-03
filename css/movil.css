@@ -1,0 +1,44 @@
+header h1 {
+    font-size: 40px;
+}
+
+#contenedor-pelicula {
+    width: 80vw !important;
+}
+
+#nav-izq {
+    margin-bottom: 10px;
+}
+
+#nav-der {
+    height: auto;
+    padding-bottom: 20px;
+}
+
+iframe {
+    width: 550px;
+}
+
+@media only screen and (max-width:730px) {
+    .contenedor-trailer {
+        height: auto;
+        padding-bottom: 15px;
+    }
+    iframe {
+        width: 300px !important;
+        height: auto !important;
+    }
+    button {
+        margin: 5px !important;
+    }
+    #contenedor-formulario {
+        width: 80vw !important;
+    }
+    #txtFecha {
+        width: 223px;
+    }
+    #piechart {
+        width: 100% !important;
+    }
+}
+

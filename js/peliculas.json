@@ -1,0 +1,135 @@
+{
+    "pelicula_01": {
+        "titulo": "John Wick (Otro día para matar)",
+        "sinopsis": "En Nueva York, John Wick, un asesino a sueldo retirado, vuelve otra vez a la acción para vengarse de los gángsters que le quitaron todo.",
+        "año": "2014",
+        "generos": "Acción, Suspense",
+        "trailer": "https://www.youtube.com/embed/vf-Cd6wVANU",
+        "imagen": "/img/John-Wick.jpg",
+        "portada": "/img/portadas/John-Wick-portada.jpg",
+        "duracion": "130 minutos",
+        "horarios": ["16:00", "17:00", "18:45", "19:45", "21:30", "22:25"]
+    },
+    "pelicula_02": {
+        "titulo": "Corazones de acero",
+        "sinopsis": "Abril de 1945. Al mando del veterano sargento Wardaddy, una brigada de cinco soldados americanos a bordo de un tanque -el Fury- ha de luchar contra un ejército nazi al borde de la desesperación, pues los alemanes saben que su derrota estaba ya cantada por aquel entonces.",
+        "año": "2014",
+        "generos": "Guerra, Drama, Acción",
+        "trailer": "https://www.youtube.com/embed/lqgfXkSh4x0",
+        "imagen": "/img/Corazones-de-acero.jpg",
+        "portada": "/img/portadas/Corazones-de-acero-portada.jpg",
+        "duracion": "130 minutos",
+        "horarios": ["17:05", "19:35", "22:05"]
+    },
+    "pelicula_03": {
+        "titulo": "SAW VIII (Jigsaw)",
+        "sinopsis": "Jigsaw está de vuelta. En esta ocasión atrapará a cinco personas y las enfrentará en una serie de juegos sangrientos como castigo por sus delitos. Al mismo tiempo tiene lugar una investigación en la que científicos forenses tratan de encontrar y capturar al asesino, con la sospecha de que alguien del equipo puede ser el responsable.",
+        "año": "2017",
+        "generos": "Crime, Terror, Misterio, Suspense",
+        "trailer": "https://www.youtube.com/embed/FkbM1sz2tqQ",
+        "imagen": "/img/Jigsaw.jpg",
+        "portada": "/img/portadas/Jigsaw-portada.jpg",
+        "duracion": "130 minutos",
+        "horarios": ["20:20", "22:20"]
+    },
+    "pelicula_04": {
+        "titulo": "Piratas del Caribe: La venganza de Salazar",
+        "sinopsis": "Empujado hacia una nueva aventura, un sumamente desafortunado Jack Sparrow descubre que los vientos de los malos augurios soplan incluso más fuerte cuando los mortales piratas fantasma liderados por su viejo enemigo, el capitán Salazar, escapan del Triángulo del Diablo. Decididos a matar a todo pirata que encuentren en el mar, incluso al propio Sparrow. La única esperanza de supervivencia del Capitán Jack Sparrow se encuentra en la búsqueda del legendario tridente de Poseidón, un poderoso artefacto que otorga a su poseedor el control total sobre los mares.",
+        "año": "2017",
+        "generos": "Aventura, Acción, Fantasía, Comedia",
+        "trailer": "https://www.youtube.com/embed/YgU6L94rKxA",
+        "imagen": "/img/Piratas-del-caribe.jpg",
+        "portada": "/img/portadas/Piratas-del-caribe-portada.jpg",
+        "duracion": "130 minutos",
+        "horarios": ["17:35", "20:05", "21:40", "22:45"]
+    },
+    "pelicula_05": {
+        "titulo": "Guardianes de la galaxia Vol. 2",
+        "sinopsis": "Continúan las aventuras del equipo en su travesía por los confines del cosmos. Los Guardianes deberán luchar para mantener unida a su nueva familia mientras intentan resolver el misterio de los verdaderos orígenes de Peter Quill. Viejos rivales se convertirán en nuevos aliados, y queridos personajes de los cómics clásicos acudirán en ayuda de nuestros héroes a medida que el Universo Cinematográfico de Marvel continúa expandiéndose.",
+        "año": "2017",
+        "generos": "Acción, Aventura, Comedia, Ciencia ficción",
+        "trailer": "https://www.youtube.com/embed/12gvJgLE4us",
+        "imagen": "/img/Guardianes-de-la-galaxia.jpg",
+        "portada": "/img/portadas/Guardianes-de-la-galaxia-portada.jpg",
+        "duracion": "130 minutos",
+        "horarios": ["16:15"]
+
+    },
+    "pelicula_06": {
+        "titulo": "Fast & Furious 8",
+        "sinopsis": "La carrera ha comenzado. Dom Toretto y su equipo volverán en esta ocasión con más ganas de guerra que nunca. No faltarán los excesos de velocidad y la adrenalina a raudales para un filme del que se espera que sea la entrega con más acción de esta saga callejera por excelencia.",
+        "año": "2017",
+        "generos": "Acción, Crimen, Suspense",
+        "trailer": "https://www.youtube.com/embed/HPegOXvd1NE",
+        "imagen": "/img/Fast-and-furious-8.jpg",
+        "portada": "/img/portadas/Fast-and-furious-8-portada.jpg",
+        "duracion": "130 minutos",
+        "horarios": ["17:35", "22:35"]
+    },
+    "pelicula_07": {
+        "titulo": "Barry Seal: El traficante",
+        "sinopsis": "Década de 1980. Después de haber trabajado como piloto de TWA, la mayor aerolínea estadounidense, Barry Seal (Tom Cruise) se convierte en narcotraficante, y posteriormente es reclutado por la CIA para realizar labores de inteligencia. La película cuenta la historia de este ex piloto que se puso al cargo de una de las más importantes operaciones encubiertas de la CIA en la historia de los Estados Unidos. Esta hazaña, con la que se logró apresar a varios miembros del cartel de Medellín, estuvo cerca de provocar la caída del gobierno de la Casa Blanca durante la presidencia de Ronald Reagan, a causa del escándalo Irangate.",
+        "año": "2017",
+        "generos": "Acción, Crimen, Suspense",
+        "trailer": "https://www.youtube.com/embed/_VBHPl3S35g",
+        "imagen": "/img/Barry-Seal.jpg",
+        "portada": "/img/portadas/Barry-Seal-portada.jpg",
+        "duracion": "130 minutos",
+        "horarios": ["15:55", "18:10", "20:30", "22:45"]
+    },
+    "pelicula_08": {
+        "titulo": "Doctor Strange",
+        "sinopsis": "El Dr. Stephen Strange es un neurocirujano mundialmente conocido hasta que un terrible accidente le priva del uso de las manos. Apartado de su profesión por su dolencia, Strange busca, sin éxito, una cura en la medicina convencional. Será entonces cuando oiga hablar de Kamar-Taj, un lejano lugar en el que podría encontrar lo que tanto busca. Allí conocerá a El anciano, un poderoso mago que ayudará a Strange a desatar sus poderes y convertirse en el único hechicero capaz de salvar el mundo.",
+        "año": "2016",
+        "generos": "Acción, Aventura, Fantasía, Ciencia ficción",
+        "trailer": "https://www.youtube.com/embed/zJINUsjyFf8",
+        "imagen": "/img/Doctor-Strange.jpg",
+        "portada": "/img/portadas/Doctor-Strange-portada.jpg",
+        "duracion": "130 minutos",
+        "horarios": ["18:00", "20:10", "22:25"]
+    },
+    "pelicula_09": {
+        "titulo": "Capitán América: Civil War",
+        "sinopsis": "Captain America: Civil War” continúa la historia de “Avengers: Age of Ultron”, con Steve Rogers liderando un nuevo equipo de Vengadores en su esfuerzo por proteger a la humanidad. Tras otro incidente internacional relacionado con los Vengadores que ocasiona daños colaterales, la presión política fuerza a crear un sistema de registro y un cuerpo gubernamental para determinar cuándo se requiere los servicios del equipo. El nuevo status quo divide a los Vengadores mientras intentan salvar al mundo de un nuevo y perverso villano.",
+        "año": "2016",
+        "generos": "Aventura, Acción, Ciencia ficción",
+        "trailer": "https://www.youtube.com/embed/C324ooIV0sI",
+        "imagen": "/img/Capitan-america-civil-war.jpg",
+        "portada": "/img/portadas/Capitan-america-civil-war-portada.jpg",
+        "duracion": "130 minutos",
+        "horarios": ["19:10"]
+    },
+    "pelicula_10": {
+        "titulo": "Deadpool",
+        "sinopsis": "Basado en el anti-héroe menos convencional de la Marvel, Deadpool narra el origen de un ex-operativo de la fuerzas especiales llamado Wade Wilson, reconvertido a mercenario, y que tras ser sometido a un cruel experimento adquiere poderes de curación rápida, adoptando Wade entonces el alter ego de Deadpool. Armado con sus nuevas habilidades y un oscuro y retorcido sentido del humor, Deadpool intentará dar caza al hombre que casi destruye su vida.",
+        "año": "2016",
+        "generos": "Acción, Aventura, Comedia",
+        "trailer": "https://www.youtube.com/embed/7evoYlgMmoY",
+        "imagen": "/img/Deadpool.jpg",
+        "portada": "/img/portadas/Deadpool-portada.jpg",
+        "duracion": "130 minutos",
+        "horarios": ["19:40", "22:50"]
+    },
+    "pelicula_11": {
+        "titulo": "Marte (The Martian)",
+        "sinopsis": "El astronauta Mark Watney, un botánico e ingeniero mecánico de la NASA, se ve atrapado en el planeta Marte cuando la tripulación del Ares 3 debe evacuar su lugar de aterrizaje ante una tormenta de arena. Sin su tripulación, se ve obligado a encontrar la forma de regresar a la Tierra y sobrevivir confiando en sus habilidades científicas y técnicas, antes de que se le agoten los suministros. Mientras que sus compañeros astronautas piensan que podría estar muerto, Watney comienza a escribir un diario divagando sobre el futuro, después de su muerte. Cuando la NASA descubre a través del satélite que Mark podría estar vivo, comienzan a trabajar sobre su rescate, ocultándoselo al resto del grupo.",
+        "año": "2015",
+        "generos": "Drama, Acción, Ciencia ficción",
+        "trailer": "https://www.youtube.com/embed/TYzLCBh_S-I",
+        "imagen": "/img/Marte.jpg",
+        "portada": "/img/portadas/Marte-portada.jpg",
+        "duracion": "142 minutos",
+        "horarios": ["20:15"]
+    },
+    "pelicula_12": {
+        "titulo": "Un ciudadano ejmplar",
+        "sinopsis": "Clyde Shelton (Gerard Butler) es un ciudadano normal que lo ha perdido todo. Diez años antes su mujer y su hija fueron brutalmente asesinadas, y los criminales no han sido condenados. El culpable es Nick Rice (Jamie Foxx), el ambicioso ayudante del fiscal del distrito, porque hizo un pacto con el abogado de uno de ellos. Pero Clyde descubre ese acuerdo, y su deseo de venganza lo lleva a cometer una serie de asesinatos.",
+        "año": "2009",
+        "generos": "Drama, Crimen, Suspense",
+        "trailer": "https://www.youtube.com/embed/hL9A1iqu5ck",
+        "imagen": "/img/Ciudadano-Ejemplar.jpg",
+        "portada": "/img/portadas/Ciudadano-Ejemplar-portada.jpg",
+        "duracion": "109 minutos",
+        "horarios": ["17:05"]
+    }
+}

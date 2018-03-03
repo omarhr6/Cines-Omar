@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: none;
+    background-color: rgb(146, 145, 145) !important;
+    padding-bottom: 40px;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid black;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+header h1 {
+    font-size: 60px;
+    color: rgb(37, 37, 37);
+    margin-left: 15px;
+}
+
+#logotipo {
+    width: 80px;
+}
+
+.titulo {
+    font-size: 24px;
+    text-align: center;
+    color: rgb(37, 37, 37);
+}

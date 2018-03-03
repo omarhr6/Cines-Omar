@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="圖層_1" x="0px" y="0px"
+            viewBox="0 0 100 100" style="transform-origin: 50px 50px 0px;" xml:space="preserve">
+            <g style="transform-origin: 50px 50px 0px; transform: scale(0.6);">
+                <g style="transform-origin: 50px 50px 0px;">
+                    <style type="text/css" class="ld ld-breath" style="transform-origin: 50px 50px 0px; animation-duration: 1s; animation-delay: -1s;">
+                        .st0 {
+                            fill: #D1D1D1;
+                        }
+
+                        .st1 {
+                            fill: #454545;
+                        }
+
+                        .st2 {
+                            fill: #464646;
+                        }
+
+                        .st3 {
+                            fill: #FFFFFF;
+                        }
+                    </style>
+                    <g class="ld ld-breath" style="transform-origin: 50px 50px 0px; animation-duration: 1s; animation-delay: -0.933333s;">
+                        <path class="st0" d="M86.971,45.269c-1.011,0-2.061,0.211-3.121,0.628l-12.143,4.769c4.134-4.023,6.709-9.641,6.709-15.851 c0-12.202-9.927-22.129-22.129-22.129c-10.72,0-19.681,7.663-21.701,17.798c-2.865-2.997-6.897-4.87-11.361-4.87 c-8.671,0-15.725,7.054-15.725,15.725c0,5.411,2.748,10.192,6.921,13.023c-0.204,0.081-0.403,0.174-0.591,0.295 c-0.972,0.626-1.56,1.703-1.56,2.859v22.319c0,4.125,3.356,7.481,7.481,7.481h41.825c4.125,0,7.481-3.356,7.481-7.481v-8.519 c0.814,0.617,1.698,1.118,2.581,1.465l12.213,4.798c1.06,0.416,2.109,0.627,3.12,0.627c3.204,0,5.529-2.17,5.529-5.161V50.429 C92.5,47.439,90.174,45.269,86.971,45.269z"
+                            fill="rgb(209, 209, 209)" style="fill: rgb(209, 209, 209);" />
+                    </g>
+                    <g class="ld ld-breath" style="transform-origin: 50px 50px 0px; animation-duration: 1s; animation-delay: -0.866667s;">
+                        <path class="st1" d="M89.553,72.93c0,1.618-1.803,2.234-4.006,1.369l-12.212-4.797c-2.203-0.865-4.006-2.898-4.006-4.515V58.26 c0-1.618,1.803-3.65,4.006-4.515l12.212-4.797c2.203-0.865,4.006-0.25,4.006,1.368V72.93z"
+                            fill="rgb(69, 69, 69)" style="fill: rgb(69, 69, 69);" />
+                    </g>
+                    <g class="ld ld-breath" style="transform-origin: 50px 50px 0px; animation-duration: 1s; animation-delay: -0.8s;">
+                        <path class="st1" d="M56.74,15.972c-10.344,0-18.729,8.385-18.729,18.729c0,10.343,8.385,18.73,18.729,18.73 s18.729-8.386,18.729-18.73C75.469,24.357,67.084,15.972,56.74,15.972z M51.035,31.951c-2.582-1.354-5.603-3.578-6.422-4.397 c-1.366-1.366-0.457-2.672,0.91-4.038c1.367-1.367,2.672-2.276,4.038-0.91c0.82,0.82,3.043,3.84,4.397,6.422 c-0.646,0.247-1.254,0.626-1.775,1.148C51.661,30.697,51.282,31.304,51.035,31.951z M56.74,38.689c-2.202,0-3.987-1.785-3.987-3.988 c0-2.202,1.785-3.987,3.987-3.987c2.202,0,3.987,1.785,3.987,3.987C60.727,36.904,58.942,38.689,56.74,38.689z"
+                            fill="rgb(69, 69, 69)" style="fill: rgb(69, 69, 69);" />
+                    </g>
+                    <g class="ld ld-breath" style="transform-origin: 50px 50px 0px; animation-duration: 1s; animation-delay: -0.733333s;">
+                        <path class="st1" d="M23.679,28.9c-6.807,0-12.325,5.518-12.325,12.325s5.518,12.325,12.325,12.325s12.325-5.518,12.325-12.325 S30.485,28.9,23.679,28.9z M18.96,49.093c-0.96,0.96-1.878,0.321-2.839-0.64c-0.961-0.961-1.6-1.879-0.64-2.839 c0.576-0.576,2.7-2.14,4.516-3.092c0.173,0.455,0.44,0.882,0.807,1.248c0.366,0.366,0.793,0.633,1.248,0.807 C21.099,46.392,19.536,48.516,18.96,49.093z M23.679,43.87c-1.462,0-2.646-1.184-2.646-2.646s1.185-2.646,2.646-2.646 c1.461,0,2.646,1.184,2.646,2.646C26.324,42.686,25.14,43.87,23.679,43.87z"
+                            fill="rgb(69, 69, 69)" style="fill: rgb(69, 69, 69);" />
+                    </g>
+                    <g class="ld ld-breath" style="transform-origin: 50px 50px 0px; animation-duration: 1s; animation-delay: -0.666667s;">
+                        <path class="st1" d="M56.514,58.872c-6.722,0-12.809-2.76-17.194-7.205h-1.508c-3.233,4.434-8.464,7.323-14.36,7.323 c-2.613,0-5.092-0.572-7.329-1.589V79.72c0,2.244,1.836,4.081,4.081,4.081h41.825c2.244,0,4.081-1.836,4.081-4.081V56.88 C63.166,58.159,59.922,58.872,56.514,58.872z"
+                            fill="rgb(69, 69, 69)" style="fill: rgb(69, 69, 69);" />
+                    </g>
+                    <metadata xmlns:d="https://loading.io/stock/" class="ld ld-breath" style="transform-origin: 50px 50px 0px; animation-duration: 1s; animation-delay: -0.6s;">
+                        <d:name class="ld ld-breath" style="transform-origin: 50px 50px 0px; animation-duration: 1s; animation-delay: -0.533333s;">cinema</d:name>
+                        <d:tags class="ld ld-breath" style="transform-origin: 50px 50px 0px; animation-duration: 1s; animation-delay: -0.466667s;">film,movie,footage,camera,projector,theatre,theater,cinema,map</d:tags>
+                        <d:license class="ld ld-breath" style="transform-origin: 50px 50px 0px; animation-duration: 1s; animation-delay: -0.4s;">cc0</d:license>
+                        <d:slug class="ld ld-breath" style="transform-origin: 50px 50px 0px; animation-duration: 1s; animation-delay: -0.333333s;">3m3n7a</d:slug>
+                    </metadata>
+                </g>
+            </g>
+            <style type="text/css" class="ld ld-breath" style="transform-origin: 50px 50px 0px; animation-duration: 1s; animation-delay: -0.266667s;">
+                path,
+                ellipse,
+                circle,
+                rect,
+                polygon,
+                polyline,
+                line {
+                    stroke-width: 0;
+                }
+
+                @keyframes ld-breath {
+                    0% {
+                        -webkit-transform: scale(0.86);
+                        transform: scale(0.86);
+                    }
+                    50% {
+                        -webkit-transform: scale(1.06);
+                        transform: scale(1.06);
+                    }
+                    100% {
+                        -webkit-transform: scale(0.86);
+                        transform: scale(0.86);
+                    }
+                }
+
+                @-webkit-keyframes ld-breath {
+                    0% {
+                        -webkit-transform: scale(0.86);
+                        transform: scale(0.86);
+                    }
+                    50% {
+                        -webkit-transform: scale(1.06);
+                        transform: scale(1.06);
+                    }
+                    100% {
+                        -webkit-transform: scale(0.86);
+                        transform: scale(0.86);
+                    }
+                }
+
+                .ld.ld-breath {
+                    -webkit-animation: ld-breath 1s infinite;
+                    animation: ld-breath 1s infinite;
+                }
+            </style>
+        </svg>

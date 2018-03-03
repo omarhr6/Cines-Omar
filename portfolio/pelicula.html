@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <!-- Enlace js -->
+    <script src="../js/pelicula.js"></script>
+
+    <!-- Enlaces jQuery -->
+    <script src="../js/jquery-3.2.1.min.js"></script>
+
+    <!-- Enlaces booststrap -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <!-- Enlace estilos -->
+    <link rel="stylesheet" href="../css/estilo.css">
+    <link rel="stylesheet" media="only screen and (max-width:758px)" href="../css/movil.css">
+    <!-- <link rel="stylesheet" media="only screen and (min-width: 768px) and (max-width:1024px)" href="../css/tablet.css" > -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+    <title>Votación Premios Óscar</title>
+</head>
+
+<body>
+    <header id="header" role="heading" aria-level="1" tabindex="0"></header>
+    <div id="contenedor-pelicula">
+        <div class="col-md-3 info" id="nav-izq">
+            <div id="cartelera">
+
+            </div>
+            <div id="nav-izq-contenido">
+                <div class="col-xs-6 col-sm-6 col-md-5">
+                    <h1 class="titulo-datos-pelicula" tabindex="0">Año</h1>
+                    <span id="span-año" tabindex="0"></span>
+                </div>
+                <div class="col-xs-6 col-sm-6 col-md-7">
+                    <h1 class="titulo-datos-pelicula" tabindex="0">Duración</h1>
+                    <span id="span-duracion" tabindex="0"></span>
+                </div>
+                <div class="col-xs-12">
+                    <h1 class="titulo-datos-pelicula" tabindex="0">Géneros</h1>
+                    <span id="span-generos" tabindex="0"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8 col-md-offset-1 info" id="nav-der" tabindex="0"></div>
+        <div class="col-md-3 info contenedor-horarios" id="nav-izq">
+            <div id="nav-izq-horarios">
+                <div class="col-xs-12 col-md-12">
+                    <h1 class="titulo-datos-pelicula" tabindex="0">Horarios Disponibles</h1>
+                    <div class="col-xs-12" id="horarios"></div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8 col-md-offset-1 info contenedor-trailer" tabindex="0">
+            <h2>Trailer</h2>
+            <div id="trailer"></div>
+        </div>
+    </div>
+    <div id="contenedor-botones">
+        <button>Volver atrás</button>
+    </div>
+    <footer class="footer">
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">
+            <img alt="Licencia de Creative Commons" style="border-width:0" src="../img/by-nc.svg" />
+        </a>
+        <h3>Created by Omar Hernández</h3>
+    </footer>
+</body>
+
+</html>

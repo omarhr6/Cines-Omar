@@ -1,0 +1,252 @@
+{
+  "butaca_01": {
+    "estado": "libre",
+    "x": 70,
+    "y": 5
+  },
+  "butaca_02": {
+    "estado": "libre",
+    "x": 110,
+    "y": 5
+  },
+  "butaca_03": {
+    "estado": "libre",
+    "x": 150,
+    "y": 5
+  },
+  "butaca_04": {
+    "estado": "libre",
+    "x": 215,
+    "y": 5
+  },
+  "butaca_05": {
+    "estado": "libre",
+    "x": 255,
+    "y": 5
+  },
+  "butaca_06": {
+    "estado": "libre",
+    "x": 295,
+    "y": 5
+  },
+  "butaca_07": {
+    "estado": "libre",
+    "x": 335,
+    "y": 5
+  },
+  "butaca_08": {
+    "estado": "libre",
+    "x": 400,
+    "y": 5
+  },
+  "butaca_09": {
+    "estado": "libre",
+    "x": 440,
+    "y": 5
+  },
+  "butaca_10": {
+    "estado": "libre",
+    "x": 480,
+    "y": 5
+  },
+  "butaca_11": {
+    "estado": "libre",
+    "x": 70,
+    "y": 50
+  },
+  "butaca_12": {
+    "estado": "libre",
+    "x": 110,
+    "y": 50
+  },
+  "butaca_13": {
+    "estado": "libre",
+    "x": 150,
+    "y": 50
+  },
+  "butaca_14": {
+    "estado": "libre",
+    "x": 215,
+    "y": 50
+  },
+  "butaca_15": {
+    "estado": "libre",
+    "x": 255,
+    "y": 50
+  },
+  "butaca_16": {
+    "estado": "libre",
+    "x": 295,
+    "y": 50
+  },
+  "butaca_17": {
+    "estado": "libre",
+    "x": 335,
+    "y": 50
+  },
+  "butaca_18": {
+    "estado": "libre",
+    "x": 400,
+    "y": 50
+  },
+  "butaca_19": {
+    "estado": "libre",
+    "x": 440,
+    "y": 50
+  },
+  "butaca_20": {
+    "estado": "libre",
+    "x": 480,
+    "y": 50
+  },
+  "butaca_21": {
+    "estado": "libre",
+    "x": 70,
+    "y": 100
+  },
+  "butaca_22": {
+    "estado": "libre",
+    "x": 110,
+    "y": 100
+  },
+  "butaca_23": {
+    "estado": "libre",
+    "x": 150,
+    "y": 100
+  },
+  "butaca_24": {
+    "estado": "libre",
+    "x": 215,
+    "y": 100
+  },
+  "butaca_25": {
+    "estado": "libre",
+    "x": 255,
+    "y": 100
+  },
+  "butaca_26": {
+    "estado": "libre",
+    "x": 295,
+    "y": 100
+  },
+  "butaca_27": {
+    "estado": "libre",
+    "x": 335,
+    "y": 100
+  },
+  "butaca_28": {
+    "estado": "libre",
+    "x": 400,
+    "y": 100
+  },
+  "butaca_29": {
+    "estado": "libre",
+    "x": 440,
+    "y": 100
+  },
+  "butaca_30": {
+    "estado": "libre",
+    "x": 480,
+    "y": 100
+  },
+  "butaca_31": {
+    "estado": "libre",
+    "x": 70,
+    "y": 150
+  },
+  "butaca_32": {
+    "estado": "libre",
+    "x": 110,
+    "y": 150
+  },
+  "butaca_33": {
+    "estado": "libre",
+    "x": 150,
+    "y": 150
+  },
+  "butaca_34": {
+    "estado": "libre",
+    "x": 215,
+    "y": 150
+  },
+  "butaca_35": {
+    "estado": "libre",
+    "x": 255,
+    "y": 150
+  },
+  "butaca_36": {
+    "estado": "libre",
+    "x": 295,
+    "y": 150
+  },
+  "butaca_37": {
+    "estado": "libre",
+    "x": 335,
+    "y": 150
+  },
+  "butaca_38": {
+    "estado": "libre",
+    "x": 400,
+    "y": 150
+  },
+  "butaca_39": {
+    "estado": "libre",
+    "x": 440,
+    "y": 150
+  },
+  "butaca_40": {
+    "estado": "libre",
+    "x": 480,
+    "y": 150
+  },
+  "butaca_41": {
+    "estado": "libre",
+    "x": 95,
+    "y": 200
+  },
+  "butaca_42": {
+    "estado": "libre",
+    "x": 135,
+    "y": 200
+  },
+  "butaca_43": {
+    "estado": "libre",
+    "x": 175,
+    "y": 200
+  },
+  "butaca_44": {
+    "estado": "libre",
+    "x": 215,
+    "y": 200
+  },
+  "butaca_45": {
+    "estado": "libre",
+    "x": 255,
+    "y": 200
+  },
+  "butaca_46": {
+    "estado": "libre",
+    "x": 295,
+    "y": 200
+  },
+  "butaca_47": {
+    "estado": "libre",
+    "x": 335,
+    "y": 200
+  },
+  "butaca_48": {
+    "estado": "libre",
+    "x": 375,
+    "y": 200
+  },
+  "butaca_49": {
+    "estado": "libre",
+    "x": 415,
+    "y": 200
+  },
+  "butaca_50": {
+    "estado": "libre",
+    "x": 455,
+    "y": 200
+  }
+}
